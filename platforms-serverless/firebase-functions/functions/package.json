@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@prisma/client": "5.18.0-dev.11",
-    "firebase-admin": "11.11.1",
+    "firebase-admin": "12.3.0",
     "firebase-functions": "5.0.1"
   },
   "devDependencies": {
